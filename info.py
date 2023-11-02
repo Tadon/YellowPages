@@ -21,7 +21,7 @@ for cities in Cities_and_states.California:
         #iterating through pages of the categories in each city
         counter = 1
         while True:
-            time.sleep(3)
+            
             url = f'https://www.yellowpages.com/search?search_terms={categorie}&geo_location_terms={cities}&page={counter}'
 
             headers = {

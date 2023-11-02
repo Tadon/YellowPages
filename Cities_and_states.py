@@ -2,8 +2,8 @@ class Cities_and_states:
     California = [
         #'Los+Angeles%2C+CA','San+Diego%2C+CA','San+Jose%2C+CA','San+Francisco%2C+CA','Fresno%2C+CA','Sacramento%2C+CA',
         
-        #'Long+Beach%2C+CA','Oakland%2C+CA',
-        'Bakersfield%2C+CA','Anaheim%2C+CA','Stockton%2C+CA',
+        #'Long+Beach%2C+CA','Oakland%2C+CA',        'Bakersfield%2C+CA','Anaheim%2C+CA',
+        'Stockton%2C+CA',
         'Riverside%2C+CA','Irvine%2C+CA','Santa+Ana%2C+CA','Chula+Vista%2C+CA','Fremont%2C+CA','Santa+Clarita%2C+CA','San+Bernardino%2C+CA','Modesto%2C+CA','Fontana%2C+CA','Moreno+Valley%2C+CA','Oxnard%2C+CA',
         'Huntington+Beach%2C+CA','Glendale%2C+CA','Ontario%2C+CA','Elk+Grove%2C+CA','Santa+Rosa%2C+CA','Rancho+Cucamonga%2C+CA','Oceanside%2C+CA','Garden+Grove%2C+CA','Lancaster%2C+CA','Palmdale%2C+CA','Salinas%2C+CA',
         'Corona%2C+CA','Hayward%2C+CA','Roseville%2C+CA','Sunnyvale%2C+CA','Escondido%2C+CA','Pomona%2C+CA','Visalia%2C+CA','Torrance%2C+CA','Fullerton%2C+CA','Victorville%2C+CA','Orange%2C+CA','Pasadena%2C+CA',
