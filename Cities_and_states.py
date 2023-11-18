@@ -2,27 +2,8 @@ class Cities_and_states:
     
     city_and_states_full = {
 
-    'Alabama' : [
-        'Huntsville%2C+AL','Montgomery%2C+AL','Birmingham%2C+AL','Mobile%2C+AL','Tuscaloosa%2C+AL','Hoover%2C+AL','Auburn%2C+AL','Dothan%2C+AL','Madison%2C+AL','Decatur%2C+AL',
-        'Florence%2C+AL','Prattville%2C+AL','Vestavia+Hills%2C+AL','Phenix+City%2C+AL','Alabaster%2C+AL','Gadsden%2C+AL','Opelika%2C+AL','Northport%2C+AL','Enterprise%2C+AL','Daphne%2C+AL',
-        'Athens%2C+AL','Homewood%2C+AL','Trussville%2C+AL','Bessemer%2C+AL','Pelham%2C+AL','Fairhope%2C+AL','Foley%2C+AL','Albertville%2C+AL','Oxford%2C+AL','Mountain+Brook%2C+AL',
-        'Helena%2C+AL','Anniston%2C+AL','Cullman%2C+AL','Prichard%2C+AL','Tillmans+Corner%2C+AL','Calera%2C+AL','Troy%2C+AL','Millbrook%2C+AL','Selma%2C+AL','Muscle+Shoals%2C+AL',
-        'Hueytown%2C+AL','Saraland%2C+AL','Gardendale%2C+AL','Gulf+Shores%2C+AL','Chelsea%2C+AL','Center+Point%2C+AL','Scottsboro%2C+AL','Hartselle%2C+AL','Fort+Payne%2C+AL','Talladega%2C+AL'
-    ],
-    'Alaska' : [
-        'Anchorage%2C+AK','Fairbanks%2C+AK','Juneau%2C+AK','Badger%2C+AK','Knik-Fairview%2C+AK','College%2C+AK','Tanaina%2C+AK','North+Lakes%2C+AK','Wasilla%2C+AK','Kalifornsky%2C+AK',
-        'Sitka%2C+AK','Meadow+Lakes%2C+AK','Ketchikan%2C+AK','Kenai%2C+AK','Steele+Creek%2C+AK','South+Lakes%2C+AK','Gateway%2C+AK','Palmer%2C+AK','Bethel%2C+AK','Sterling%2C+AK',
-        'Homer%2C+AK','Chena+Ridge%2C+AK','Kodiak%2C+AK','Fishhook%2C+AK','Utqiaġvik%2C+AK','Soldotna%2C+AK','Nikiski%2C+AK','Farmers+Loop%2C+AK','Unalaska%2C+AK','Valdez%2C+AK',
-        'Butte%2C+AK','Mill+Bay%2C+AK','Nome%2C+AK','Petersburg%2C+AK','Eielson+AFB%2C+AK','Kotzebue%2C+AK','Big+Lake%2C+AK','Seward%2C+AK','Goldstream%2C+AK','Ester%2C+AK',
-        'Ridgeway%2C+AK','Farm+Loop%2C+AK','Cordova%2C+AK','North+Pole%2C+AK','Anchor+Point%2C+AK','Dillingham%2C+AK','Kodiak+Station%2C+AK','Fritz+Creek%2C+AK','Houston%2C+AK','Wrangell%2C+AK'
-    ],
-    'Arizona' : [
-        'Phoenix%2C+AZ','Tucson%2C+AZ','Mesa%2C+AZ','Chandler%2C+AZ','Gilbert%2C+AZ','Glendale%2C+AZ','Scottsdale%2C+AZ','Peoria%2C+AZ','Tempe%2C+AZ','Surprise%2C+AZ',
-        'Buckeye%2C+AZ','Goodyear%2C+AZ','Yuma%2C+AZ','San+Tan+Valley%2C+AZ','Avondale%2C+AZ','Flagstaff%2C+AZ','Queen+Creek%2C+AZ','Casas+Adobes%2C+AZ','Maricopa%2C+AZ','Casa+Grande%2C+AZ',
-        'Lake+Havasu+City%2C+AZ','Marana%2C+AZ','Catalina+Foothills%2C+AZ','Prescott+Valley%2C+AZ','Oro+Valley%2C+AZ','Prescott%2C+AZ','Sierra+Vista%2C+AZ','Bullhead+City%2C+AZ','Apache+Junction%2C+AZ','Sun+City%2C+AZ',
-        'El+Mirage%2C+AZ','San+Luis%2C+AZ','Sahuarita%2C+AZ','Kingman%2C+AZ','Drexel+Heights%2C+AZ','Fortuna+Foothills%2C+AZ','Sun+City+West%2C+AZ','Florence%2C+AZ','Fountain+Hills%2C+AZ','Anthem%2C+AZ',
-        'Rio+Rico%2C+AZ','Green+Valley%2C+AZ','Nogales%2C+AZ','New+River%2C+AZ','Eloy%2C+AZ','Flowing+Wells%2C+AZ','Coolidge%2C+AZ','Payson%2C+AZ','Fort+Mohave%2C+AZ','Douglas%2C+AZ'
-    ],
+    
+    
     'Arkansas' : [
         'Little+Rock%2C+AR','Fayetteville%2C+AR','Fort+Smith%2C+AR','Springdale%2C+AR','Jonesboro%2C+AR','Rogers%2C+AR','Conway%2C+AR','North+Little+Rock%2C+AR','Bentonville%2C+AR','Pine+Bluff%2C+AR',
         'Hot+Springs%2C+AR','Benton%2C+AR','Sherwood%2C+AR','Bella+Vista%2C+AR','Paragould%2C+AR','Texarkana%2C+AR','Russellville%2C+AR','Jacksonville%2C+AR','Cabot%2C+AR','West+Memphis%2C+AR',
@@ -396,38 +377,6 @@ class Cities_and_states:
     ],
     'Wyoming' : [
         'Cheyenne%2C+WY','Casper%2C+WY','Gillette%2C+WY','Laramie%2C+WY','Rock+Springs%2C+WY','Sheridan%2C+WY'
-    ],
-    'California' : [
-        'Los+Angeles%2C+CA','San+Diego%2C+CA','San+Jose%2C+CA','San+Francisco%2C+CA','Fresno%2C+CA','Sacramento%2C+CA','Long+Beach%2C+CA','Oakland%2C+CA','Bakersfield%2C+CA','Anaheim%2C+CA','Stockton%2C+CA',
-        'Riverside%2C+CA','Irvine%2C+CA','Santa+Ana%2C+CA','Chula+Vista%2C+CA','Fremont%2C+CA','Santa+Clarita%2C+CA','San+Bernardino%2C+CA','Modesto%2C+CA','Fontana%2C+CA','Moreno+Valley%2C+CA','Oxnard%2C+CA',
-        'Huntington+Beach%2C+CA','Glendale%2C+CA','Ontario%2C+CA','Elk+Grove%2C+CA','Santa+Rosa%2C+CA','Rancho+Cucamonga%2C+CA','Oceanside%2C+CA','Garden+Grove%2C+CA','Lancaster%2C+CA','Palmdale%2C+CA','Salinas%2C+CA',
-        'Corona%2C+CA','Hayward%2C+CA','Roseville%2C+CA','Sunnyvale%2C+CA','Escondido%2C+CA','Pomona%2C+CA','Visalia%2C+CA','Torrance%2C+CA','Fullerton%2C+CA','Victorville%2C+CA','Orange%2C+CA','Pasadena%2C+CA',
-        'Santa+Clara%2C+CA','Clovis%2C+CA','Simi+Valley%2C+CA','Thousand+Oaks%2C+CA','Vallejo%2C+CA','Concord%2C+CA','Fairfield%2C+CA','East+Los+Angeles%2C+CA','Berkeley%2C+CA','Antioch%2C+CA','Richmond%2C+CA',
-        'Carlsbad%2C+CA','Murrieta%2C+CA','Temecula%2C+CA','Santa+Maria%2C+CA','Downey%2C+CA','San+Buenaventura+(Ventura)%2C+CA','Costa+Mesa%2C+CA','Menifee%2C+CA','Jurupa+Valley%2C+CA','El+Monte%2C+CA','West+Covina%2C+CA',
-        'El+Cajon%2C+CA','Burbank%2C+CA','Inglewood%2C+CA','Rialto%2C+CA','Vacaville%2C+CA','Chico%2C+CA','San+Mateo%2C+CA','Hesperia%2C+CA','Daly+City%2C+CA','Norwalk%2C+CA','Vista%2C+CA','Tracy%2C+CA',
-        'Arden-Arcade%2C+CA','San+Marcos%2C+CA','Chino%2C+CA','Redding%2C+CA','Carson%2C+CA','Compton%2C+CA','Indio%2C+CA','Mission+Viejo%2C+CA','Merced%2C+CA','South+Gate%2C+CA','Hemet%2C+CA','Santa+Monica%2C+CA',
-        'Westminster%2C+CA','Santa+Barbara%2C+CA','Manteca%2C+CA','San+Leandro%2C+CA','Citrus+Heights%2C+CA','San+Ramon%2C+CA','Lake+Forest%2C+CA','Livermore%2C+CA','Hawthorne%2C+CA','Whittier%2C+CA','Newport+Beach%2C+CA',
-        'Folsom%2C+CA','Buena+Park%2C+CA','Mountain+View%2C+CA','Rancho+Cordova%2C+CA','Redwood+City%2C+CA','Perris%2C+CA','Alhambra%2C+CA','Lakewood%2C+CA','Upland%2C+CA','Tustin%2C+CA','Napa%2C+CA','Chino+Hills%2C+CA',
-        'Milpitas%2C+CA','Pittsburg%2C+CA','Carmichael%2C+CA','Pleasanton%2C+CA','Bellflower%2C+CA','Alameda%2C+CA','Apple+Valley%2C+CA','Rocklin%2C+CA','Redlands%2C+CA','Turlock%2C+CA','Dublin%2C+CA','Lake+Elsinore%2C+CA',
-        'Eastvale%2C+CA','Tulare%2C+CA','Camarillo%2C+CA','Baldwin+Park%2C+CA','Yuba+City%2C+CA','Walnut+Creek%2C+CA','Redondo+Beach%2C+CA','Madera%2C+CA','Lodi%2C+CA','Yorba+Linda%2C+CA','Davis%2C+CA','Union+City%2C+CA',
-        'Castro+Valley%2C+CA','Brentwood%2C+CA','Palo+Alto%2C+CA','Florence-Graham%2C+CA','Lynwood%2C+CA','Laguna+Niguel%2C+CA','South+San+Francisco%2C+CA','San+Clemente%2C+CA','Porterville%2C+CA','La+Habra%2C+CA','Santa+Cruz%2C+CA',
-        'Woodland%2C+CA','Encinitas%2C+CA','Montebello%2C+CA','La+Mesa%2C+CA','San+Rafael%2C+CA','Pico+Rivera%2C+CA','Santee%2C+CA','Gardena%2C+CA','South+Whittier%2C+CA','Petaluma%2C+CA','Monterey+Park%2C+CA','Hanford%2C+CA',
-        'Gilroy%2C+CA','Cupertino%2C+CA','Highland%2C+CA','Beaumont%2C+CA','Fountain+Valley%2C+CA','National+City%2C+CA','San+Jacinto%2C+CA','West+Sacramento%2C+CA','Arcadia%2C+CA','Hacienda+Heights%2C+CA','Yucaipa%2C+CA','Colton%2C+CA',
-        'Diamond+Bar%2C+CA','Huntington+Park%2C+CA','Lincoln%2C+CA','Cathedral+City%2C+CA','Novato%2C+CA','Placentia%2C+CA','Paramount%2C+CA','Palm+Desert%2C+CA','Florin%2C+CA','Watsonville%2C+CA','Aliso+Viejo%2C+CA','Delano%2C+CA',
-        'Glendora%2C+CA','Rosemead%2C+CA','Covina%2C+CA','Cypress%2C+CA','Ceres%2C+CA','Azusa%2C+CA','Rowland+Heights%2C+CA','El+Dorado+Hills%2C+CA','North+Highlands%2C+CA','Antelope%2C+CA','San+Luis+Obispo%2C+CA','Poway%2C+CA',
-        'Cerritos%2C+CA','Newark%2C+CA','Los+Banos%2C+CA'
-    ],
-    'New_York' : [
-        "New+York+city%2C+NY","Hempstead+town%2C+NY","Brookhaven%2C+NY","Islip%2C+NY","Oyster+Bay%2C+NY","Buffalo%2C+NY","North+Hempstead%2C+NY","Babylon+town%2C+NY","Rochester+city%2C+NY","Yonkers%2C+NY",
-        "Huntington%2C+NY","Ramapo%2C+NY","Syracuse%2C+NY","Amherst%2C+NY","Smithtown%2C+NY","Albany%2C+NY","Greece%2C+NY","Greenburgh%2C+NY","Cheektowaga%2C+NY","Clarkstown%2C+NY",
-        "Colonie+town%2C+NY","New+Rochelle%2C+NY","Tonawanda+town%2C+NY","Mount+Vernon%2C+NY","Southampton+town%2C+NY","Schenectady%2C+NY","Utica%2C+NY","Hamburg+town%2C+NY","Clay%2C+NY","White+Plains%2C+NY",
-        "Hempstead+village%2C+NY","Union%2C+NY","Troy%2C+NY","Irondequoit%2C+NY","Rye+town%2C+NY","Orangetown%2C+NY","Niagara+Falls%2C+NY","Henrietta%2C+NY","Binghamton+city%2C+NY","Perinton%2C+NY",
-        "Poughkeepsie+town%2C+NY","Webster+town%2C+NY","West+Seneca%2C+NY","Lancaster+town%2C+NY","Mount+Pleasant%2C+NY","Freeport%2C+NY","Cortlandt%2C+NY","Valley+Stream%2C+NY","Kiryas+Joel%2C+NY","Palm+Tree%2C+NY",
-        "Penfield%2C+NY","Ossining+town%2C+NY","Haverstraw+town%2C+NY","Clifton+Park%2C+NY","Guilderland%2C+NY","Brighton+town%2C+NY","Riverhead%2C+NY","Yorktown%2C+NY","Bethlehem%2C+NY","Long+Beach%2C+NY",
-        "Carmel%2C+NY","Eastchester%2C+NY","Manlius+town%2C+NY","Clarence%2C+NY","Spring+Valley%2C+NY","Ithaca+city%2C+NY","Salina%2C+NY","Poughkeepsie+city%2C+NY","Newburgh+town%2C+NY","Warwick+town%2C+NY",
-        "Rome%2C+NY","Wallkill%2C+NY","Cicero%2C+NY","Vestal%2C+NY","Mamaroneck+town%2C+NY","Port+Chester%2C+NY","Rotterdam%2C+NY","Pittsford+town%2C+NY","North+Tonawanda%2C+NY","Middletown+city%2C+NY",
-        "East+Fishkill%2C+NY","Orchard+Park+town%2C+NY","Harrison%2C+NY","Queensbury%2C+NY","Glenville%2C+NY","Chili%2C+NY","Gates%2C+NY","East+Hampton+town%2C+NY","Saratoga+Springs%2C+NY","Newburgh+city%2C+NY",
-        "Wappinger%2C+NY","Jamestown%2C+NY","Glen+Cove%2C+NY","New+Windsor%2C+NY","Lindenhurst%2C+NY","Ossining+village%2C+NY","Halfmoon%2C+NY","Le+Ray%2C+NY","Auburn%2C+NY","Elmira+city%2C+NY"
     ]
 }
     
@@ -678,5 +627,58 @@ class Cities_and_states:
         'Los+Angeles%2C+CA','San+Diego%2C+CA','San+Jose%2C+CA','San+Francisco%2C+CA','Fresno%2C+CA','Sacramento%2C+CA','Long+Beach%2C+CA','Oakland%2C+CA','Bakersfield%2C+CA','Anaheim%2C+CA','Stockton%2C+CA',
         'Riverside%2C+CA','Irvine%2C+CA','Santa+Ana%2C+CA','Chula+Vista%2C+CA','Fremont%2C+CA','Santa+Clarita%2C+CA','San+Bernardino%2C+CA','Modesto%2C+CA','Fontana%2C+CA','Moreno+Valley%2C+CA','Oxnard%2C+CA',
         
-    ]
+    ],
+    'California' : [
+        'Los+Angeles%2C+CA','San+Diego%2C+CA','San+Jose%2C+CA','San+Francisco%2C+CA','Fresno%2C+CA','Sacramento%2C+CA','Long+Beach%2C+CA','Oakland%2C+CA','Bakersfield%2C+CA','Anaheim%2C+CA','Stockton%2C+CA',
+        'Riverside%2C+CA','Irvine%2C+CA','Santa+Ana%2C+CA','Chula+Vista%2C+CA','Fremont%2C+CA','Santa+Clarita%2C+CA','San+Bernardino%2C+CA','Modesto%2C+CA','Fontana%2C+CA','Moreno+Valley%2C+CA','Oxnard%2C+CA',
+        'Huntington+Beach%2C+CA','Glendale%2C+CA','Ontario%2C+CA','Elk+Grove%2C+CA','Santa+Rosa%2C+CA','Rancho+Cucamonga%2C+CA','Oceanside%2C+CA','Garden+Grove%2C+CA','Lancaster%2C+CA','Palmdale%2C+CA','Salinas%2C+CA',
+        'Corona%2C+CA','Hayward%2C+CA','Roseville%2C+CA','Sunnyvale%2C+CA','Escondido%2C+CA','Pomona%2C+CA','Visalia%2C+CA','Torrance%2C+CA','Fullerton%2C+CA','Victorville%2C+CA','Orange%2C+CA','Pasadena%2C+CA',
+        'Santa+Clara%2C+CA','Clovis%2C+CA','Simi+Valley%2C+CA','Thousand+Oaks%2C+CA','Vallejo%2C+CA','Concord%2C+CA','Fairfield%2C+CA','East+Los+Angeles%2C+CA','Berkeley%2C+CA','Antioch%2C+CA','Richmond%2C+CA',
+        'Carlsbad%2C+CA','Murrieta%2C+CA','Temecula%2C+CA','Santa+Maria%2C+CA','Downey%2C+CA','San+Buenaventura+(Ventura)%2C+CA','Costa+Mesa%2C+CA','Menifee%2C+CA','Jurupa+Valley%2C+CA','El+Monte%2C+CA','West+Covina%2C+CA',
+        'El+Cajon%2C+CA','Burbank%2C+CA','Inglewood%2C+CA','Rialto%2C+CA','Vacaville%2C+CA','Chico%2C+CA','San+Mateo%2C+CA','Hesperia%2C+CA','Daly+City%2C+CA','Norwalk%2C+CA','Vista%2C+CA','Tracy%2C+CA',
+        'Arden-Arcade%2C+CA','San+Marcos%2C+CA','Chino%2C+CA','Redding%2C+CA','Carson%2C+CA','Compton%2C+CA','Indio%2C+CA','Mission+Viejo%2C+CA','Merced%2C+CA','South+Gate%2C+CA','Hemet%2C+CA','Santa+Monica%2C+CA',
+        'Westminster%2C+CA','Santa+Barbara%2C+CA','Manteca%2C+CA','San+Leandro%2C+CA','Citrus+Heights%2C+CA','San+Ramon%2C+CA','Lake+Forest%2C+CA','Livermore%2C+CA','Hawthorne%2C+CA','Whittier%2C+CA','Newport+Beach%2C+CA',
+        'Folsom%2C+CA','Buena+Park%2C+CA','Mountain+View%2C+CA','Rancho+Cordova%2C+CA','Redwood+City%2C+CA','Perris%2C+CA','Alhambra%2C+CA','Lakewood%2C+CA','Upland%2C+CA','Tustin%2C+CA','Napa%2C+CA','Chino+Hills%2C+CA',
+        'Milpitas%2C+CA','Pittsburg%2C+CA','Carmichael%2C+CA','Pleasanton%2C+CA','Bellflower%2C+CA','Alameda%2C+CA','Apple+Valley%2C+CA','Rocklin%2C+CA','Redlands%2C+CA','Turlock%2C+CA','Dublin%2C+CA','Lake+Elsinore%2C+CA',
+        'Eastvale%2C+CA','Tulare%2C+CA','Camarillo%2C+CA','Baldwin+Park%2C+CA','Yuba+City%2C+CA','Walnut+Creek%2C+CA','Redondo+Beach%2C+CA','Madera%2C+CA','Lodi%2C+CA','Yorba+Linda%2C+CA','Davis%2C+CA','Union+City%2C+CA',
+        'Castro+Valley%2C+CA','Brentwood%2C+CA','Palo+Alto%2C+CA','Florence-Graham%2C+CA','Lynwood%2C+CA','Laguna+Niguel%2C+CA','South+San+Francisco%2C+CA','San+Clemente%2C+CA','Porterville%2C+CA','La+Habra%2C+CA','Santa+Cruz%2C+CA',
+        'Woodland%2C+CA','Encinitas%2C+CA','Montebello%2C+CA','La+Mesa%2C+CA','San+Rafael%2C+CA','Pico+Rivera%2C+CA','Santee%2C+CA','Gardena%2C+CA','South+Whittier%2C+CA','Petaluma%2C+CA','Monterey+Park%2C+CA','Hanford%2C+CA',
+        'Gilroy%2C+CA','Cupertino%2C+CA','Highland%2C+CA','Beaumont%2C+CA','Fountain+Valley%2C+CA','National+City%2C+CA','San+Jacinto%2C+CA','West+Sacramento%2C+CA','Arcadia%2C+CA','Hacienda+Heights%2C+CA','Yucaipa%2C+CA','Colton%2C+CA',
+        'Diamond+Bar%2C+CA','Huntington+Park%2C+CA','Lincoln%2C+CA','Cathedral+City%2C+CA','Novato%2C+CA','Placentia%2C+CA','Paramount%2C+CA','Palm+Desert%2C+CA','Florin%2C+CA','Watsonville%2C+CA','Aliso+Viejo%2C+CA','Delano%2C+CA',
+        'Glendora%2C+CA','Rosemead%2C+CA','Covina%2C+CA','Cypress%2C+CA','Ceres%2C+CA','Azusa%2C+CA','Rowland+Heights%2C+CA','El+Dorado+Hills%2C+CA','North+Highlands%2C+CA','Antelope%2C+CA','San+Luis+Obispo%2C+CA','Poway%2C+CA',
+        'Cerritos%2C+CA','Newark%2C+CA','Los+Banos%2C+CA'
+    ],
+    'New_York' : [
+        "New+York+city%2C+NY","Hempstead+town%2C+NY","Brookhaven%2C+NY","Islip%2C+NY","Oyster+Bay%2C+NY","Buffalo%2C+NY","North+Hempstead%2C+NY","Babylon+town%2C+NY","Rochester+city%2C+NY","Yonkers%2C+NY",
+        "Huntington%2C+NY","Ramapo%2C+NY","Syracuse%2C+NY","Amherst%2C+NY","Smithtown%2C+NY","Albany%2C+NY","Greece%2C+NY","Greenburgh%2C+NY","Cheektowaga%2C+NY","Clarkstown%2C+NY",
+        "Colonie+town%2C+NY","New+Rochelle%2C+NY","Tonawanda+town%2C+NY","Mount+Vernon%2C+NY","Southampton+town%2C+NY","Schenectady%2C+NY","Utica%2C+NY","Hamburg+town%2C+NY","Clay%2C+NY","White+Plains%2C+NY",
+        "Hempstead+village%2C+NY","Union%2C+NY","Troy%2C+NY","Irondequoit%2C+NY","Rye+town%2C+NY","Orangetown%2C+NY","Niagara+Falls%2C+NY","Henrietta%2C+NY","Binghamton+city%2C+NY","Perinton%2C+NY",
+        "Poughkeepsie+town%2C+NY","Webster+town%2C+NY","West+Seneca%2C+NY","Lancaster+town%2C+NY","Mount+Pleasant%2C+NY","Freeport%2C+NY","Cortlandt%2C+NY","Valley+Stream%2C+NY","Kiryas+Joel%2C+NY","Palm+Tree%2C+NY",
+        "Penfield%2C+NY","Ossining+town%2C+NY","Haverstraw+town%2C+NY","Clifton+Park%2C+NY","Guilderland%2C+NY","Brighton+town%2C+NY","Riverhead%2C+NY","Yorktown%2C+NY","Bethlehem%2C+NY","Long+Beach%2C+NY",
+        "Carmel%2C+NY","Eastchester%2C+NY","Manlius+town%2C+NY","Clarence%2C+NY","Spring+Valley%2C+NY","Ithaca+city%2C+NY","Salina%2C+NY","Poughkeepsie+city%2C+NY","Newburgh+town%2C+NY","Warwick+town%2C+NY",
+        "Rome%2C+NY","Wallkill%2C+NY","Cicero%2C+NY","Vestal%2C+NY","Mamaroneck+town%2C+NY","Port+Chester%2C+NY","Rotterdam%2C+NY","Pittsford+town%2C+NY","North+Tonawanda%2C+NY","Middletown+city%2C+NY",
+        "East+Fishkill%2C+NY","Orchard+Park+town%2C+NY","Harrison%2C+NY","Queensbury%2C+NY","Glenville%2C+NY","Chili%2C+NY","Gates%2C+NY","East+Hampton+town%2C+NY","Saratoga+Springs%2C+NY","Newburgh+city%2C+NY",
+        "Wappinger%2C+NY","Jamestown%2C+NY","Glen+Cove%2C+NY","New+Windsor%2C+NY","Lindenhurst%2C+NY","Ossining+village%2C+NY","Halfmoon%2C+NY","Le+Ray%2C+NY","Auburn%2C+NY","Elmira+city%2C+NY"
+    ],
+    'Alabama' : [
+        'Huntsville%2C+AL','Montgomery%2C+AL','Birmingham%2C+AL','Mobile%2C+AL','Tuscaloosa%2C+AL','Hoover%2C+AL','Auburn%2C+AL','Dothan%2C+AL','Madison%2C+AL','Decatur%2C+AL',
+        'Florence%2C+AL','Prattville%2C+AL','Vestavia+Hills%2C+AL','Phenix+City%2C+AL','Alabaster%2C+AL','Gadsden%2C+AL','Opelika%2C+AL','Northport%2C+AL','Enterprise%2C+AL','Daphne%2C+AL',
+        'Athens%2C+AL','Homewood%2C+AL','Trussville%2C+AL','Bessemer%2C+AL','Pelham%2C+AL','Fairhope%2C+AL','Foley%2C+AL','Albertville%2C+AL','Oxford%2C+AL','Mountain+Brook%2C+AL',
+        'Helena%2C+AL','Anniston%2C+AL','Cullman%2C+AL','Prichard%2C+AL','Tillmans+Corner%2C+AL','Calera%2C+AL','Troy%2C+AL','Millbrook%2C+AL','Selma%2C+AL','Muscle+Shoals%2C+AL',
+        'Hueytown%2C+AL','Saraland%2C+AL','Gardendale%2C+AL','Gulf+Shores%2C+AL','Chelsea%2C+AL','Center+Point%2C+AL','Scottsboro%2C+AL','Hartselle%2C+AL','Fort+Payne%2C+AL','Talladega%2C+AL'
+    ],
+    'Alaska' : [
+        'Anchorage%2C+AK','Fairbanks%2C+AK','Juneau%2C+AK','Badger%2C+AK','Knik-Fairview%2C+AK','College%2C+AK','Tanaina%2C+AK','North+Lakes%2C+AK','Wasilla%2C+AK','Kalifornsky%2C+AK',
+        'Sitka%2C+AK','Meadow+Lakes%2C+AK','Ketchikan%2C+AK','Kenai%2C+AK','Steele+Creek%2C+AK','South+Lakes%2C+AK','Gateway%2C+AK','Palmer%2C+AK','Bethel%2C+AK','Sterling%2C+AK',
+        'Homer%2C+AK','Chena+Ridge%2C+AK','Kodiak%2C+AK','Fishhook%2C+AK','Utqiaġvik%2C+AK','Soldotna%2C+AK','Nikiski%2C+AK','Farmers+Loop%2C+AK','Unalaska%2C+AK','Valdez%2C+AK',
+        'Butte%2C+AK','Mill+Bay%2C+AK','Nome%2C+AK','Petersburg%2C+AK','Eielson+AFB%2C+AK','Kotzebue%2C+AK','Big+Lake%2C+AK','Seward%2C+AK','Goldstream%2C+AK','Ester%2C+AK',
+        'Ridgeway%2C+AK','Farm+Loop%2C+AK','Cordova%2C+AK','North+Pole%2C+AK','Anchor+Point%2C+AK','Dillingham%2C+AK','Kodiak+Station%2C+AK','Fritz+Creek%2C+AK','Houston%2C+AK','Wrangell%2C+AK'
+    ],
+    'Arizona' : [
+        'Phoenix%2C+AZ','Tucson%2C+AZ','Mesa%2C+AZ','Chandler%2C+AZ','Gilbert%2C+AZ','Glendale%2C+AZ','Scottsdale%2C+AZ','Peoria%2C+AZ','Tempe%2C+AZ','Surprise%2C+AZ',
+        'Buckeye%2C+AZ','Goodyear%2C+AZ','Yuma%2C+AZ','San+Tan+Valley%2C+AZ','Avondale%2C+AZ','Flagstaff%2C+AZ','Queen+Creek%2C+AZ','Casas+Adobes%2C+AZ','Maricopa%2C+AZ','Casa+Grande%2C+AZ',
+        'Lake+Havasu+City%2C+AZ','Marana%2C+AZ','Catalina+Foothills%2C+AZ','Prescott+Valley%2C+AZ','Oro+Valley%2C+AZ','Prescott%2C+AZ','Sierra+Vista%2C+AZ','Bullhead+City%2C+AZ','Apache+Junction%2C+AZ','Sun+City%2C+AZ',
+        'El+Mirage%2C+AZ','San+Luis%2C+AZ','Sahuarita%2C+AZ','Kingman%2C+AZ','Drexel+Heights%2C+AZ','Fortuna+Foothills%2C+AZ','Sun+City+West%2C+AZ','Florence%2C+AZ','Fountain+Hills%2C+AZ','Anthem%2C+AZ',
+        'Rio+Rico%2C+AZ','Green+Valley%2C+AZ','Nogales%2C+AZ','New+River%2C+AZ','Eloy%2C+AZ','Flowing+Wells%2C+AZ','Coolidge%2C+AZ','Payson%2C+AZ','Fort+Mohave%2C+AZ','Douglas%2C+AZ'
+    ],
 }
