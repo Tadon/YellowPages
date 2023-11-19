@@ -1,0 +1,10 @@
+Programming to do:
+
+Upload data directly to database after scraping
+scraping emails
+multi threading scrapes
+
+dun&bradstreet website revenue
+email and DNC verification
+business owner name
+find a way to keep track of city/state incase program closes
