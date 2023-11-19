@@ -41,7 +41,7 @@ session = requests_retry_session()
 db_params = {
     'dbname': 'Testing_database',
     'user': 'postgres',
-    'password': '#######',
+    'password': 'Lolwat123!@#',
     'host': 'localhost'
 }
 try:
